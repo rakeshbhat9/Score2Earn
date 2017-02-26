@@ -1,0 +1,126 @@
+/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7 "/Users/rakesh/Google Drive/Code Development/Python/Score2Earn_py/main.py"
+Please input total number of players: 3
+Provide Name & PPId using , separator: RR,paypal.me/RakeshBhat
+Provide Name & PPId using , separator: PS,paypal.me/RakeshBhat
+Provide Name & PPId using , separator: SP,paypal.me/RakeshBhat
+Data for below players added
+['RR', 'PS', 'SP']
+Lets Input scores for users..
+Input score for RR10
+Input score for PS20
+Input score for SP30
+Leading scorer this round is: 
+SP  with total score of  30.0
+
+Are we playing another game? Y/N: Y
+Let's begin round  2
+Lets Input scores for users..
+Input score for RR20
+Input score for PS40
+Input score for SP100
+Leading scorer this round is: 
+SP  with total score of  130.0
+
+Are we playing another game? Y/N: Y
+Let's begin round  3
+Lets Input scores for users..
+Input score for RR40
+Input score for PS20
+Input score for SP56
+Leading scorer this round is: 
+SP  with total score of  186.0
+
+Are we playing another game? Y/N: Y
+Let's begin round  4
+Lets Input scores for users..
+Input score for RR45
+Input score for PS23
+Input score for SP11
+Leading scorer this round is: 
+SP  with total score of  197.0
+
+Are we playing another game? Y/N: Y
+Let's begin round  5
+Lets Input scores for users..
+Input score for RR500
+Input score for PS10
+Input score for SP30
+Leading scorer this round is: 
+RR  with total score of  615.0
+
+Are we playing another game? Y/N: N
+Cool let me see who has earned some money today..
+Final Winner is...
+SP
+None
+
+Process finished with exit code 0
+-----------------------------------------------------------------------
+Total Scores:
+RR: 615
+PS: 113
+SP: 227
+
+Round Winds:
+RR: 2
+PS: 0
+SP: 3
+
+-----------------------------------------------------------------------
+
+/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7 "/Users/rakesh/Google Drive/Code Development/Python/Score2Earn_py/main.py"
+Please input total number of players: 3
+Provide Name & PPId using , separator: Rakesh,list_of_players
+Provide Name & PPId using , separator: RR,paypal.me/RakeshBhat
+Provide Name & PPId using , separator: SS,paypal.me/RakeshBhat
+Data for below players added
+['Rakesh', 'RR', 'SS']
+Lets Input scores for users..
+Input score for Rakesh10
+Input score for RR100
+Input score for SS20
+Leading scorer this round is:
+RR  with total score of  100.0
+Are we playing another game? Y/N: Y
+Let's begin round  2
+Lets Input scores for users..
+Input score for Rakesh100
+Input score for RR200
+Input score for SS45
+Leading scorer this round is:
+RR  with total score of  300.0
+Are we playing another game? Y/N: Y
+Let's begin round  3
+Lets Input scores for users..
+Input score for Rakesh1000
+Input score for RR30
+Input score for SS444
+Leading scorer this round is:
+Rakesh  with total score of  1110.0
+Are we playing another game? Y/N: Y
+Let's begin round  4
+Lets Input scores for users..
+Input score for Rakesh1
+Input score for RR4000
+Input score for SS20
+Leading scorer this round is:
+RR  with total score of  4330.0
+Are we playing another game? Y/N: Y
+Let's begin round  5
+Lets Input scores for users..
+Input score for Rakesh10
+Input score for RR20
+Input score for SS30
+Leading scorer this round is:
+RR  with total score of  4350.0
+Are we playing another game? Y/N: N
+Cool let me see who has earned some money today..
+Final Winner is...
+RR
+RR
+RR
+RR
+RR
+Everyone pays  RR $ 10
+
+Process finished with exit code 0
