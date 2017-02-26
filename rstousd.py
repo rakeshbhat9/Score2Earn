@@ -5,7 +5,7 @@ from datetime import datetime as dt
 
 
 def rate():
-    usdinr = pd.DataFrame(quandl.get("CUR/INR", authtoken="fjf2DxBVWp8-aeDLas12"))
+    usdinr = pd.DataFrame(quandl.get("CUR/INR", authtoken="ENTER YOUR TOKEN HERE"))
     today = dt.today()
     y = today - datetime.timedelta(1)
     yesterday = y.strftime('%Y-%m-%d')
